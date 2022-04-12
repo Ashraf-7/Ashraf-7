@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraf-7&show_icons=true&locale=en&layout=compact" alt="ashraf-7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraf-7&show_icons=true&locale=en" alt="ashraf-7" /></p>
+<p display="inline-block" margin-left="10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraf-7&show_icons=true&locale=en" alt="ashraf-7" /></p>
