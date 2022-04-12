@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashraf</h1>
 <h3 align="center">Oracle Apex developer | Frontend developer</h3>
 
+<img src="https://github.com/Ashraf-7/Ashraf-7/blob/master/inspectocat.jpg?raw=true" alt="Profile Banner" />
+
 - 🔭 I’m currently working on [Aqarek - National Real Estate Platform](https://aqarek.com.sa/)
 
 - 🌱 I’m currently learning **JavaScript and React**
